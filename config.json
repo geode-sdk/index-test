@@ -1,7 +1,8 @@
 {
     "repos": {
         "camila314/geode-index": [
-            "com.camila314.fps-bypass"
+            "com.camila314.fps-bypass",
+            "camila314.noclip"
         ]
     },
     "verified": [
