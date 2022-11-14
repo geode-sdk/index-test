@@ -1,5 +1,9 @@
 {
-    "repos": {},
+    "repos": {
+        "camila314/index-template-test": [
+            "camila314.noclip"
+        ]
+    },
     "verified": [
         "camila314"
     ]
