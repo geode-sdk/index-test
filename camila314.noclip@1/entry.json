@@ -1,0 +1,12 @@
+{
+    "commit-author": "camila314",
+    "version": "v1.0.0",
+    "categories": [],
+    "platforms": [
+        "macos"
+    ],
+    "mod": {
+        "download": "https://github.com/camila314/test/raw/main/samplemod/mod.geode",
+        "hash": "0fc1ab293e533db731b8e2807ccb227ae5e9ae6c8f1447ca0e9f6e3b9d0e346e"
+    }
+}
