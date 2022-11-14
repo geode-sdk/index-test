@@ -1,0 +1,12 @@
+{
+    "commit-author": "camila314",
+    "version": "v1.0.0",
+    "categories": [],
+    "platforms": [
+        "macos"
+    ],
+    "mod": {
+        "download": "https://github.com/camila314/geode-index/raw/main/fpsbypass/mod.geode",
+        "hash": "305390a62b92bc1d2a42d055e611492b194cf04b990f36c05ede13675b4ccdb3"
+    }
+}
