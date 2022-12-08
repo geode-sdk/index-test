@@ -6,5 +6,8 @@
     "platforms": [
         "windows",
         "macos"
+    ],
+    "tags": [
+        "Editor", "Online"
     ]
 }
